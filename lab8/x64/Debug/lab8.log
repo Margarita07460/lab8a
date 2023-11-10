@@ -1,0 +1,4 @@
+﻿  lab8.cpp
+C:\Users\Маргарита\Desktop\laba8\lab8\lab8.cpp(112,5): warning C4552: "+": результат выражения не используется
+C:\Users\Маргарита\Desktop\laba8\lab8\lab8.cpp(130,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab8.vcxproj -> C:\Users\Маргарита\Desktop\laba8\lab8\x64\Debug\lab8.exe
